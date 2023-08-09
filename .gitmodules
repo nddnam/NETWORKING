@@ -1,0 +1,3 @@
+[submodule "vrf-lite-lab"]
+	path = vrf-lite-lab
+	url = https://github.com/nddnam/-networking-vrf-lite
