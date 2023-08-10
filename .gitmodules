@@ -1,3 +1,6 @@
 [submodule "vrf-lite-lab"]
 	path = vrf-lite-lab
 	url = https://github.com/nddnam/-networking-vrf-lite
+[submodule "networking-load-balancing-study-note"]
+	path = networking-load-balancing-study-note
+	url = https://github.com/nddnam/networking-load-banacing-study-note
